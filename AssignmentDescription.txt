@@ -75,7 +75,7 @@ What it should do:
 	call the AnswerPrinter function 3 times, 
       -fist passing in the String parameter
       -second time passing in the integer parameter
-      -thired time passing in the double parameter
+      -third time passing in the double parameter
 Returns: nothing
 */
 
