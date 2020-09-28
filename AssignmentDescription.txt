@@ -94,9 +94,9 @@ Call PrinterChecker passing in "bob", 4, 2.5
 Call FindRectangleArea passing in 3,5
 Call FindTriangleArea passing in 4,6
 Call FindRectanglePerimeter passing in 3,5
-Call FindTrianglePerimeter passing in 4,6
+Call FindTrianglePerimeter passing in 4,6,7
 
 Call FindRectangleArea passing in 42.5,20
 Call FindTriangleArea passing in 41,16.6
 Call FindRectanglePerimeter passing in 22,35.25
-Call FindTrianglePerimeter passing in 44.5,20
+Call FindTrianglePerimeter passing in 44.5,20,22.25
