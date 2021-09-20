@@ -1,5 +1,5 @@
 
-Add test cases for all functions with the name Average here.
+Add test cases for all functions with the name PrinterChecker here.
 .  // <- separates the test cases (needed at start and end)
 .  p-type:  <-is how to define a parameter and its value 
 .  i: <- specifies input to be passed to the scanner if any is needed
